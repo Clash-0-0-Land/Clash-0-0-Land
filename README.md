@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Clash-0-0-Land and I'm a beginner in the programming world.
+- 👀 I’m interested in learn new languages and improve what you already know.
+- 🌱 I’m currently learning languages like Python and Javascript
