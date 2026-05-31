@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @Clash-0-0-Land and I'm a beginner in the programming world.
-- 👀 I’m interested in learn new languages and improve what you already know.
-- 🌱 I’m currently learning languages like Python and Javascript
+- 👋 Hi, I’m @Clash-0-0-Land, a Computer Science student.
+- 👀 I’m interested in learn new languages and improve what I already know.
+- 🖥️ The programming languages ​​I've worked with are Python, Javascript and Kotlin.
+- 🗒️ Now, I am studying Java and C.
