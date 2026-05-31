@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Clash-0-0-Land, a Computer Science student.
-- 👀 I’m interested in learn new languages and improve what I already know.
+- 👀 I’m interested in learn new technologies and improve what I already know.
 - 🖥️ The programming languages ​​I've worked with are Python, Javascript and Kotlin.
 - 🗒️ Now, I am studying Java and C.
